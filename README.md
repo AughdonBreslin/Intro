@@ -5,6 +5,7 @@ Welcome to my github page! A lot of my repos involve classwork and so are set to
 My personal favorite is my Connect Four AI; it was definitely the most fun to show my highschool teacher and display it in showcases, as well as to have kids challenge it at varying depths!
 
 Hope you enjoy!
+
   \- Aughdon (Audie) Breslin
   
   \- Computer Science, Stevens Class of 2023
