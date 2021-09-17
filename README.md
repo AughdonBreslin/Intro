@@ -7,5 +7,4 @@ My personal favorite is my Connect Four AI; it was definitely the most fun to sh
 Hope you enjoy!
 
   \- Aughdon (Audie) Breslin,
-  
-     Computer Science, Stevens Class of 2023
+  Computer Science, Stevens Class of 2023
